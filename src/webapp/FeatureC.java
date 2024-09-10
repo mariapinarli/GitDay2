@@ -6,4 +6,9 @@ public class FeatureC {
 
     // there ara some commits
 
+    // added feature c class
+     // added some changes
+
+
+
 }
