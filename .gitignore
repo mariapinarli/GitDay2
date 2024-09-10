@@ -1,0 +1,22 @@
+### IntelliJ IDEA ###
+out/
+.idea
+*.iml
+
+
+
+
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
